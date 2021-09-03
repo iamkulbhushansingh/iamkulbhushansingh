@@ -23,6 +23,17 @@
 
 - 🌱 I’m currently learning: **Advanced C++ | Data Structure & ALgo | Advanced SQL | Advanced Python **
 
+<br/>
+
+### 📬 Get in Touch
+
+- StackOverflow: [stackoverflow.com/federico-dondi][stackoverflow]
+- GitHub: [https://github.com/iamkulbhushansingh][github]
+- LinkedIn: [https://www.linkedin.com/in/kulbhushan-singh-0b5204196/][linkedin]
+- Site: [http://iamkulbhushansingh.github.io/][site]
+- E-mail: iamkulbhushansingh@gmail.com
+
+<br/>
 
 Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 
