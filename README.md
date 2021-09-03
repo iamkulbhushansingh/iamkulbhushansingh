@@ -5,7 +5,7 @@
 
 <br/>
 <div align="center">
-<img src="https://github.com/iamkulbhushansingh/iamkulbhushansingh/blob/main/src/git.gif" alt="Kulbhushan Singh" width="600" height="400"/>
+<img src="https://github.com/iamkulbhushansingh/iamkulbhushansingh/blob/main/src/git.gif" alt="Kulbhushan Singh" width="650" height="400"/>
 </div>
 <br/>
 
