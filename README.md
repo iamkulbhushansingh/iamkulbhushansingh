@@ -9,8 +9,19 @@
 </div>
 <br/>
 
+<br/>
 
+- 🙌 I'm currently open to: **Software Engineering | Data Engineering | Full-Stack Web Development Roles**
 
+<br/><br/>
+
+<div align="center">
+<img src="https://github.com/iamkulbhushansingh/iamkulbhushansingh/blob/main/src/coderman.gif" alt="Coderman" width="400" height="250" />
+</div>
+<br/>
+- 🔭 I’m currently working on: **Competitive Programming | Data Science | Full-Stack Web Dev**
+
+- 🌱 I’m currently learning: **Advanced C++ | Data Structure & ALgo | Advanced SQL | Advanced Python **
 
 
 Here are some [🦜 parrots](https://cultofthepartyparrot.com):
