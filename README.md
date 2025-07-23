@@ -12,7 +12,7 @@
 
 <br/>
 
-- 🙌 I'm currently open to: **Software Engineering | Data Engineering | Data Scientist Role**
+- 🙌 I'm currently open to: **Computer Vision Engineer | Machine Learning Engineer | Applied Scientist**
 
 <br/><br/>
 
@@ -20,9 +20,9 @@
 <img src="https://github.com/iamkulbhushansingh/iamkulbhushansingh/blob/main/src/coderman.gif" alt="Coderman" width="400" height="250" />
 </div>
 <br/>
-- 🔭 I’m currently working on: **Competitive Programming | Data Science | Full-Stack Web Dev**
+- 🔭 I’m currently working on: **Advanced Matrix Theory | Linear Algebra | Applied Mathematics**
 
-- 🌱 I’m currently learning: **Advanced C++ | Data Structure & ALgo | Advanced SQL | Advanced Python **
+- 🌱 I’m currently learning: **Advanced C++ | Transformers | H264 Encoder | Motion Vector Estimation **
 
 <br/>
 
